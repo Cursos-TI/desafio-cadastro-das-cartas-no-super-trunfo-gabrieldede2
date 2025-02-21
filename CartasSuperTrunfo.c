@@ -7,6 +7,11 @@
 //Teste larissa
 
 int main() {
+    /*Estado, codigo da carta, nome da cidade, população, area em km², PIB, numero de pontos turísticos*/
+    char estado [20] = "pernambuco", "bahia";
+    char cidade [20] = "paulista", "juazeiro";
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
